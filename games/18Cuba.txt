@@ -53,6 +53,24 @@ corporate structures:
 	 par values: '[70, 75, 80, 85, 90, 95, 100]'
 	 short limit: 'null'
 	 option price: 'null'
+	 id: '2'
+	 name: 'FC'
+	 order: '2'
+	 primary stock: 'null'
+	 common stock: '0.1'
+	 min ownership: 'null'
+	 max ownership: '1.0'
+	 max ownership all: '1.0'
+	 share/stock ratio: '1.0'
+	 max stock price: 'null'
+	 max bank pool: '0.5'
+	 percent to float: 'null'
+	 stocks to float: 'null'
+
+	 full cap: 'null'
+	 par values: 'null'
+	 short limit: 'null'
+	 option price: 'null'
 companies:
 	 name: 'FC del Oeste'
 	 short name: 'Oe'
@@ -101,6 +119,12 @@ companies:
 	 color: Color(alpha: 1.0000, red: 0.5020, green: 0.0000, blue: 0.5020, colorSpace: ColorSpace.sRGB)
 	 additional ownership: []
 	 corporate structures: [0, ]
+
+	 name: 'Ferrocarril Central'
+	 short name: 'FC'
+	 color: Color(alpha: 1.0000, red: 0.5020, green: 0.5020, blue: 0.5020, colorSpace: ColorSpace.sRGB)
+	 additional ownership: []
+	 corporate structures: [2, ]
 
 	 name: 'FC de Holguín a Gibara'
 	 short name: 'HG'
